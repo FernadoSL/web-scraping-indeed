@@ -1,0 +1,6 @@
+{
+    "indeedUrl": "https://www.indeed{}/jobs?q={}&l={}&limit={}&radius=25&start=0",
+    "webdriverPath": "chromedriver.exe",
+    "htmlRegex": "//div[@class='jobsearch-SerpJobCard unifiedRow row result clickcard']",
+    "outputPath": "result.csv"
+}
